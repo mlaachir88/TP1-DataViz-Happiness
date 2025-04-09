@@ -41,6 +41,12 @@ Il consiste à analyser et visualiser les données du **World Happiness Report 2
 - Diagramme de réseau (Network)
 - Diagramme de Sankey
 
+## Source des données
+
+Les données utilisées dans ce projet proviennent du jeu de données Kaggle suivant :  
+👉 [World Happiness Report 2024 – Yearly Updated](https://www.kaggle.com/datasets/jainaru/world-happiness-report-2024-yearly-updated)
+
+
 ## Auteur
 
 Mohamed Laachir – Étudiant en Master 1 Data Engineering
